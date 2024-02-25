@@ -1,4 +1,4 @@
-### Hi there 👋
+[![](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=mikolaj-szubert&theme=chartreuse-dark&hide_border=true&layout=compact&bg_color=00000000)](https://github.com/mikolaj-szubert)
 
 <!--
 **mikolaj-szubert/mikolaj-szubert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
