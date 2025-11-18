@@ -1,5 +1,7 @@
 [![](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=mikolaj-szubert&theme=chartreuse-dark&hide_border=true&layout=compact&bg_color=00000000)](https://github.com/mikolaj-szubert)
 
+<div class="badge-base LI-profile-badge" data-locale="pl_PL" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="mikolaj-szubert" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pl.linkedin.com/in/mikolaj-szubert?trk=profile-badge">Mikołaj Szubert</a></div>
+ 
 <!--
 **mikolaj-szubert/mikolaj-szubert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
